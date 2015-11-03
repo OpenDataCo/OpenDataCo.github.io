@@ -1,0 +1,20 @@
+---
+layout: default
+img: ../stickers.jpg
+category: Introduccion
+title: Comunidad Open Data Colombia 
+description: Que es datosabiertos.co
+---
+`datosabiertos.co` una comunidad abierta que promueve el uso y la creacion de Datos Abiertos. Para mas informacion ingresa a nuestra [Lista de Correos](https://groups.google.com/forum/#!forum/opendataco).
+
+
+Los datos abiertos son parte esencial de la contruccion de una sociedad mas transparente, responsable y participativa. En Colombia los datos abiertos pueden ayudar a a entender e identificar problemas de criminalidad, corrupcion.  
+
+Los datos abiertos tambien son materia esencial para la construccion de las ciudades del futuro...
+
+--
+
+## Por donde deberia empezar ?
+
+- Saludar en la [Lista de Correos](https://groups.google.com/forum/#!forum/opendataco)
+- En [HackDays](https://github.com/OpenDataCo/HackDays) hay una lista de ideas/toDo :)
