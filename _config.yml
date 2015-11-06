@@ -5,7 +5,7 @@
 url: http://opendataco.github.io
 title: Colombia
 email: dav.alejandro@gmail.com
-author: David Przybilla
+author: Open Data Colombia
 description: Open Data - Datos Abiertos para Colombia
 copyright: ''
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
@@ -24,7 +24,7 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/dav009
+    url: https://twitter.com/datosabiertosco
   - title: github
     url: https://github.com/OpenDataCo
   - title: mailing list
